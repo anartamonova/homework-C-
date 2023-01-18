@@ -1,0 +1,15 @@
+C:\Users\79114\Desktop\project\less-c#\bin\Debug\net7.0\less-c#.exe
+C:\Users\79114\Desktop\project\less-c#\bin\Debug\net7.0\less-c#.deps.json
+C:\Users\79114\Desktop\project\less-c#\bin\Debug\net7.0\less-c#.runtimeconfig.json
+C:\Users\79114\Desktop\project\less-c#\bin\Debug\net7.0\less-c#.dll
+C:\Users\79114\Desktop\project\less-c#\bin\Debug\net7.0\less-c#.pdb
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\less-c#.csproj.AssemblyReference.cache
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\less-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\less-c#.AssemblyInfoInputs.cache
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\less-c#.AssemblyInfo.cs
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\less-c#.csproj.CoreCompileInputs.cache
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\less-c#.dll
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\refint\less-c#.dll
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\less-c#.pdb
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\less-c#.genruntimeconfig.cache
+C:\Users\79114\Desktop\project\less-c#\obj\Debug\net7.0\ref\less-c#.dll
