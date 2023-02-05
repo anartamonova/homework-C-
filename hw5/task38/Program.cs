@@ -1,15 +1,14 @@
-﻿//Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
-//[3 7 22 2 78] -> 76
-Console.Write("Введите число элементов: ");
-int length = Convert.ToInt32(Console.ReadLine());
-int[] array = new int[length];
-Console.Write("[");
-  for (int i = 0; i < array.Length; i++) {
-    array[i] = new Random().Next(100);
-    Console.Write($"{array[i]} ");
-    };
-Console.Write("] -> ");
-int a = array.Min();
-int b = array.Max();
-int diff = b -a;
-Console.Write(diff);
+﻿Console.WriteLine("Введите массив чисел через запятую");
+string s = Console.ReadLine();
+string[] nums = s.Split(new char[] { ' ', '.', ',' }, StringSplitOptions.RemoveEmptyEntries);
+int[] n = nums.Select(Int32.Parse).ToArray();
+int sum = 0;
+for (int i = 0; i < n.Length; i++)
+{
+    if (n[i] > 0)
+    {
+        sum = sum + n[i];
+    }
+}
+Console.WriteLine(n)
+Console.WriteLine($"Сумма положительных элементов равна {sum}");
